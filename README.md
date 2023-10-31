@@ -1,22 +1,6 @@
 <h1 align="center">Hi 👋, I'm Niyonkuru Eric</h1>
-<h3 align="center">A passionate frontend and backed developer</h3>
-<img align='right'width="400" src="blob:https://tenor.com/13cc611c-69ea-4df3-911b-23ad1b17898b">
+![profession Blogger](https://github.com/niyonkurueric/niyonkurueric/assets/76616593/90088502-297d-470b-bbaa-5f25d5cc3640)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=niyonkurueric&label=Profile%20views&color=0e75b6&style=flat" alt="niyonkurueric" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=niyonkurueric" alt="niyonkurueric" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/https://twitter.com/niyonku67876081" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/niyonku67876081?logo=twitter&style=for-the-badge" alt="https://twitter.com/niyonku67876081" /></a> </p>
-
-- 🔭 I’m currently working on **E-commerci**
-
-- 🌱 I’m currently learning **react and node express backend**
-
-- 👨‍💻 All of my projects are available at [https://niyonkurueric.netlify.app/](https://niyonkurueric.netlify.app/)
-
-- 📝 I regularly write articles on [http://neroservices.rw/](http://neroservices.rw/)
-
-- 💬 Ask me about **react and laravel**
 
 - 📫 How to reach me **niyonkurufamous@gmail.com**
 
